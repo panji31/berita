@@ -1,5 +1,6 @@
 const connection = require('../connection.js');
 
+/*qeury create User*/
 exports.createUser = (req, res) => {
     const username = req.body.username;
     const password = req.body.password;
@@ -16,6 +17,8 @@ exports.createUser = (req, res) => {
         }
     )
 }
+
+/*qeury create news*/
 exports.createNews = (req, res) => {
     const title = req.body.title;
     const content = req.body.content;
@@ -34,6 +37,8 @@ exports.createNews = (req, res) => {
         }
     )
 }
+
+/*qeury view news buzzer*/
 exports.viewBuzzer = (req, res) => {
     const id_akses = 3;
     connection.query(

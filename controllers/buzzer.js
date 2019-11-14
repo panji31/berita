@@ -1,5 +1,6 @@
 const connection = require('../connection.js');
 
+/*qeury view news*/
 exports.viewNews = (req, res) => {
     const id_akses = 2;
     connection.query(
@@ -14,6 +15,8 @@ exports.viewNews = (req, res) => {
         }
     )
 }
+
+/*qeury dobuzzer*/
 exports.doBuzzer = (req, res) => {
     const id_news = req.body.id_news;
     const id_user = req.body.id_user;

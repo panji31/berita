@@ -1,5 +1,10 @@
 'use strict'
 
+/*setup connection for mysqli
+host : ,
+host : ,
+data:
+*/
 const mysql = require('mysql');
 const connectionSQL = mysql.createConnection({
     host: 'localhost',
@@ -7,6 +12,7 @@ const connectionSQL = mysql.createConnection({
     database: 'berita'
 });
 
+/*connection status*/
 connectionSQL.connect(function (err) {
     if (err) {
         console.log('Database Failed to Connect');

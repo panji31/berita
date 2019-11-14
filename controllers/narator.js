@@ -1,5 +1,6 @@
 const connection = require('../connection.js');
 
+/*qeury view news*/
 exports.createNews = (req, res) => {
     const title = req.body.title;
     const content = req.body.content;
@@ -18,6 +19,7 @@ exports.createNews = (req, res) => {
         }
     )
 }
+/*qeury do buzzer*/
 exports.doBuzzer = (req, res) => {
     const id_news = req.body.id_news;
     const id_user = req.body.id_user;
