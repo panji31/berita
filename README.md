@@ -7,12 +7,12 @@ Teknologi Yang Digunakan
 2.mysql
 3.postman
 ===============================================================================================================================
-Tatacara Penggunaan
-1.Pastikan komputer atau laptop sudah terinstal node js,postman dan mySql sebagai databasenya
-2.Lakukan import database dengan nama file berita.sql dan cek koneksinya di file connection.js, user dan password di sesuaikan
-3.unduh semua file githubnya
-4.cek endpoint dengan postman
-5.selsai
+Tatacara Penggunaan<br>
+1.Pastikan komputer atau laptop sudah terinstal node js,postman dan mySql sebagai databasenya<br>
+2.Lakukan import database dengan nama file berita.sql dan cek koneksinya di file connection.js, user dan password di sesuaikan<br>
+3.unduh semua file githubnya<br>
+4.cek endpoint dengan postman<br>
+5.selsai<br>
 ===============================================================================================================================
 Skema Database
 
