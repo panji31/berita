@@ -1,14 +1,14 @@
-# berita
-
 DOKUMENTASI ENDPOINT
 ===============================================================================================================================
-Teknologi Yang Digunakan
-1.node js
-2.mysql
-3.postman
+<font size="12">
+<b>Teknologi Yang Digunakan</b><br>
+1.node js<br>
+2.mysql<br>
+3.postman<br>
+</font> 
 ===============================================================================================================================
 <font size="12">
-Tatacara Penggunaan<br>
+ <b>Tatacara Penggunaan</b><br>
 1.Pastikan komputer atau laptop sudah terinstal node js,postman dan mySql sebagai databasenya<br>
 2.Lakukan import database dengan nama file berita.sql dan cek koneksinya di file connection.js, user dan password di sesuaikan<br>
 3.unduh semua file githubnya<br>
@@ -17,13 +17,13 @@ Tatacara Penggunaan<br>
 </font> 
 
 ===============================================================================================================================
-Skema Database
+<br><b>Skema Database</b>
 
 <a href="https://ibb.co/56PsCj8"><img src="https://i.ibb.co/rmV5qp6/schema.jpg" alt="schema" border="0"></a>
 ===============================================================================================================================
-Tatacara Penggunaan dan aturan Endpoint menggunakan aplikasi Postman
+<b>Tatacara Penggunaan dan aturan Endpoint menggunakan aplikasi Postman</b>
 
-1.Super Admin
+<b>1.Super Admin</b>
 
 Create User Narator dan Buzzer
 
@@ -77,7 +77,7 @@ Url : http://localhost:5000/api/v1/superadmin/buzzernews
 
 Format pengisian:
 
-2.Narator
+<b>2.Narator</b>
 
 Create News
 
@@ -121,7 +121,7 @@ Contoh format pengisin Raw JSON:
 “id_media”:”1”
 }
 
-3.Buzzer
+<b>3.Buzzer</b>
 
 Do Buzzer
 
