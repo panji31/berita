@@ -29,7 +29,7 @@
 
 <b>1.Super Admin</b>
 
-Create User Narator dan Buzzer
+<b>Create User Narator dan Buzzer</b>
 
 deskripsi  : digunakan untuk membuat user narator dan buzzer
 
@@ -49,7 +49,7 @@ Contoh format pengisin Raw JSON:
 “id_akses”:”2”
 }
 
-Create News
+<b>Create News</b>
 
 Method : POST
 
@@ -71,7 +71,7 @@ Contoh format pengisin Raw JSON:
 “id_user”:”1”
 }
 
-News Buzzer
+<b>News Buzzer</b>
 
 deskripsi  : digunakan melihat buzzer telah menyebarkan berita apa saja
 
@@ -83,7 +83,7 @@ Format pengisian:
 
 <b>2.Narator</b>
 
-Create News
+<b>Create News</b>
 
 Method : POST
 
@@ -105,7 +105,7 @@ Contoh format pengisin Raw JSON:
 “id_user”:”1”
 }
 
-Do Buzzer
+<b>Do Buzzer</b>
 
 Method : POST
 
@@ -127,7 +127,7 @@ Contoh format pengisin Raw JSON:
 
 <b>3.Buzzer</b>
 
-Do Buzzer
+<b>Do Buzzer</b>
 
 deskripsi  : melakukan sharing buzzer
 
@@ -147,7 +147,7 @@ Contoh format pengisin Raw JSON:
 “id_media”:”1”
 }
 
-View News
+<b>View News</b>
 
 deskripsi  : melihat berita yang dibuat narator
 
