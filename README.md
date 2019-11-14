@@ -1,7 +1,10 @@
-DOKUMENTASI ENDPOINT
+<b>DOKUMENTASI ENDPOINT</b>
+ 
+ <hr>
 
 <font size="12">
 <b>Teknologi Yang Digunakan</b><br>
+ 
 1.node js<br>
 2.mysql<br>
 3.postman<br>
@@ -9,6 +12,7 @@ DOKUMENTASI ENDPOINT
 
 <font size="12">
  <b>Tatacara Penggunaan</b><br>
+ 
 1.Pastikan komputer atau laptop sudah terinstal node js,postman dan mySql sebagai databasenya<br>
 2.Lakukan import database dengan nama file berita.sql dan cek koneksinya di file connection.js, user dan password di sesuaikan<br>
 3.unduh semua file githubnya<br>
