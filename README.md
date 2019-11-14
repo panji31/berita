@@ -1,12 +1,12 @@
 DOKUMENTASI ENDPOINT
-===============================================================================================================================
+
 <font size="12">
 <b>Teknologi Yang Digunakan</b><br>
 1.node js<br>
 2.mysql<br>
 3.postman<br>
 </font> 
-===============================================================================================================================
+
 <font size="12">
  <b>Tatacara Penggunaan</b><br>
 1.Pastikan komputer atau laptop sudah terinstal node js,postman dan mySql sebagai databasenya<br>
@@ -16,11 +16,11 @@ DOKUMENTASI ENDPOINT
 5.selsai<br>
 </font> 
 
-===============================================================================================================================
+
 <br><b>Skema Database</b>
 
 <a href="https://ibb.co/56PsCj8"><img src="https://i.ibb.co/rmV5qp6/schema.jpg" alt="schema" border="0"></a>
-===============================================================================================================================
+
 <b>Tatacara Penggunaan dan aturan Endpoint menggunakan aplikasi Postman</b>
 
 <b>1.Super Admin</b>
@@ -153,4 +153,4 @@ Url : http://localhost:5000/api/v1/buzzer/naratornews
 
 Format pengisian:
 
-===============================================================================================================================
+
